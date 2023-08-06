@@ -1,5 +1,3 @@
-Of course
-
 ---
 
 # Keter Port Scanner
