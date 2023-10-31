@@ -12,7 +12,7 @@ A fast and efficient port scanner with an added WhoIs lookup functionality. Buil
 
 - **Multi-threaded Scanning**: Utilizes multi-threading for faster port scanning.
 - **WhoIs Lookup**: Fetches and displays WhoIs details of the target.
-- **Interactive UI**: User-friendly command-line interface with a progress bar.
+- **Command-line UI**: User-friendly command-line interface with a progress bar.
 - **Comprehensive Results**: Neatly formatted results with a list of open ports.
 
 ---
